@@ -1,0 +1,2 @@
+# Predicting Price Moves with News Sentiment
+This repository contains code and analysis for the 10 Academy Week 1 Challenge, focusing on analyzing financial news sentiment and its correlation with stock price movements.
